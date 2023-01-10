@@ -4,15 +4,9 @@
 [影片說明](https://youtu.be/tLdMTop1fyA)
 
 ## 前置作業
-該程式會用到 **Selenium** 函式庫，需要額外安裝
+該程式會用到 **Selenium** 及 **webdriver-manager** 函式庫，需要額外安裝
 ##### Python 3 使用 pip 安裝
-`python3 -m pip install selenium`
-
-該程式還需要使用 **ChromeDriver** ，所以裝置上必須先有 Google Chrome
-
-[然後下載與裝置上 Chrome 同版本之 ChromeDriver](https://chromedriver.chromium.org/)
-
-將 ChromeDriver 與本程式置於同一路徑下
+`python3 -m pip install selenium webdriver-manager`
 
 ## 使用
 輸入「**漫畫編號**」即可，輸入任意 **負數** 結束程式
