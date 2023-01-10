@@ -1,7 +1,7 @@
 ###### Ahri8_Downloader_Webdriver
 # 松鼠症倉庫下載器
 
-[影片說明](https://youtu.be/tLdMTop1fyA)
+[影片說明](https://youtu.be/m56xlxOPmUU)
 
 ## 前置作業
 該程式會用到 **Selenium** 及 **webdriver-manager** 函式庫，需要額外安裝
