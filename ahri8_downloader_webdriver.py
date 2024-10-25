@@ -100,7 +100,7 @@ def main():
                     # pass
 
 
-                driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), chrome_options=options)
+                driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
                 driver.set_window_size(3000, 3000)
                 
 
